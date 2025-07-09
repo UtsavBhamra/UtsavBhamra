@@ -1,16 +1,14 @@
-## Hi there 👋
+# Utsav Singh Bhamra
 
-<!--
-**UtsavBhamra/UtsavBhamra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Utsav Singh Bhamra!  
+- 🎓 CSE undergrad @ NITK, Surathkal
+- 💻 Web Developer @ IRIS, NITK Surathkal  
+- 🕸️ Member @ WebClub-NITK  
+- 🌐 Webmaster @ ACM NITK  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! Here you'll find my latest projects and contributions in web development and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Check out my profile for more: [UtsavBhamra](https://github.com/UtsavBhamra)
+
+---
+*This is a basic starter README. Update it with your projects and details as needed!*
